@@ -1,6 +1,6 @@
 # Table of contents
 
-* [AutoPump](README.md)
+* [☄️ AutoPump](README.md)
 
 ## 🚀 AutoPump Mechanism
 
@@ -15,3 +15,4 @@
 * [🤑 Tokenomics](tokenomics.md)
 * [🎯 Marketing](marketing.md)
 * [🗺️ Roadmap](roadmap.md)
+* [🤩 Team](team.md)

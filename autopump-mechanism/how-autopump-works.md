@@ -1,3 +1,8 @@
+---
+cover: ../.gitbook/assets/bg-cover-autopump.webp
+coverY: 0
+---
+
 # ⚙️ How AutoPump Works
 
 A clever design where each transaction feeds into a mechanism that's all about the rise. The smart contracts ensure a continuous cycle. Collect, accumulate, and when the moment's right, power up the price by buying and burning tokens. No pause, all play.

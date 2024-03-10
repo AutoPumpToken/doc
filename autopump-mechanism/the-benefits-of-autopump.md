@@ -1,3 +1,8 @@
+---
+cover: ../.gitbook/assets/bg-cover-autopump.webp
+coverY: 0
+---
+
 # 🛫 The Benefits of AutoPump
 
 It's a self-fueling engine designed to thrive. With the burn and boost approach, AutoPump is hard-coded for ascent, making it a standout choice for those looking for a token that's geared to grow.

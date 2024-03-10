@@ -1,3 +1,8 @@
+---
+cover: ../.gitbook/assets/bg-cover-autopump.webp
+coverY: 0
+---
+
 # 💥 AutoPump's Unique Features
 
 Beyond the basics, AutoPump is a step ahead with its dual DEX presence and arbitrage potential. It's not just about the pump, it's about keeping the market lively, volumes high, and opportunities ripe for the savvy trader. All the while, it's the smart contract that runs the show, no hype, just a programmed pump, ready to launch.
