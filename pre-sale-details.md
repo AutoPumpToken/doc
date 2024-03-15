@@ -1,40 +1,49 @@
 # 💲 Pre-Sale Details
 
-#### AutoPump Pre-Sale: All Systems Go for 2024
+**Pre-sale Details**
 
-**Launch Date:**\
-Get ready for liftoff. AutoPump pre-sale starts Wednesday, 13th March 2024, with the main event launching on Sunday, 16th March 2024. No delays, no excuses. We launch no matter what.
+**Start Dates:**
 
-**Pre-Sale Targets:**\
-We're on a mission to raise 50 ETH. That's our golden number.
+* **Pre-Sale:** **Monday, March 18, 2024**
+* **Launch:** 16th March 2024
 
-**Token Allocation:**
+**Goals & Tokens:**
 
-* **For Sale:** 20% (That’s 200 billion AUTO, ready for you)
-* **Airdrop:** 10% (100 billion AUTO, spreading the love)
-* **Liquidity Lock:** 70% (700 billion AUTO, creating a stable foundation)
+* **We Raise:** $25,000
+* **You Get:** 400 million AUTO for 1 AVAX ($50)
+* **Minimum Buy:** 0.1 AVAX
 
-**Token Pricing:**
+**Token Details:**
 
-* **Pre-Sale Rate:** 1 ETH gets you a whopping 4 billion AUTO.
-* **Minimum Entry:** Dip your toes with as little as 0.01 ETH.
+* **Total AUTO:** 1 trillion
+  * **For Sale:** 20% (200 billion)
+  * **Free Airdrop:** 10% (100 billion)
+  * **Locked for Safety:** 70% (700 billion)
 
-**Use of Funds:**
+**Funds Use:**
 
-* **Liquidity:** 80% is heading straight into liquidity pools on two exchanges, and we’re locking it up tight.
-* **Marketing and Hype:** The remaining 20% fuels our campaign to get everyone talking about AutoPump.
+* **All for Liquidity:** Every dollar boosts AUTO’s market presence. No money is spent on marketing.
 
-**Participation Details:**
+**Technologies:**
 
-<table><thead><tr><th>Date</th><th width="109">ETH Goal</th><th width="147">AUTO per ETH</th><th>Minimum Purchase</th><th width="130">Total Tokens</th></tr></thead><tbody><tr><td>13th March 2024</td><td>50 ETH</td><td>4 Billion</td><td>0.01 ETH</td><td>1 Trillion</td></tr></tbody></table>
+* **AutoPump:** A built-in boost for your investment, ensuring growth.
+* **RBL (Range-Bound Liquidify):** Keeps the market stable in all conditions.
 
-**Mark the Calendar:**
+**Why This Pre-Sale?** We’re confident in AutoPump's bright future. Our careful release plan protects you from early sell-offs, letting AutoPump grow strong. This approach shows we believe in our project's long-term success. We’re putting all funds into making the market stable, because we know this is the path to success.
 
-* **Pre-Sale:** 13th March 2024
-* **Launch Day:** 16th March 2024
+**Table Summary:**
 
-**🪂 Airdrop Alert:** Stay sharp! 10% of AUTO is getting airdropped. Keep your eyes peeled for how to catch this bonus bounty.
+| **Detail**           | **Info**                                   |
+| -------------------- | ------------------------------------------ |
+| **Objective**        | Raise $25,000 with 200 billion AUTO tokens |
+| **Minimum Stake**    | 0.1 AVAX                                   |
+| **Token Supply**     | 1 trillion AUTO                            |
+| **For Sale**         | 20% (200 billion AUTO)                     |
+| **Airdrop**          | 10% (100 billion AUTO)                     |
+| **Liquidity Lock**   | 70% (700 billion AUTO)                     |
+| **Investor Journey** | 6 days lock, then release over 69 days     |
+| **Use of Funds**     | 100% for liquidity                         |
 
-Remember, do your homework and get ready to be part of the AutoPump voyage. Let's hit those heights together. See you on launch day, when we chart our course to the moon!
+**Be Part of Our Success:**
 
-_AutoPump: Fair, square, and all set to soar._
+Join us on Monday, March 18, 2024, for the pre-sale. The launch follows right after we meet our goal. With AutoPump, you’re not just investing, you’re joining a future crypto success story. Ready to start? 🚀

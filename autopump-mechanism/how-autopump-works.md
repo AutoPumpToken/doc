@@ -3,19 +3,23 @@ cover: ../.gitbook/assets/bg-cover-autopump.webp
 coverY: 0
 ---
 
-# ⚙️ How AutoPump Works
+# ⚙️ How AutoPump Works (Simplified)
 
-![Diagram](../diagram.png)
+**Understanding AutoPump: Advanced Yet Accessible**
 
-This pump mechanism, known as Range-Bound Liquidify (RBL), is designed to operate independently on individual tokens. Initially deployed to boost the price of AUTO against ETH, it follows a protocol-enforced range that ensures continuous upward movement. By combining reflection token mechanisms with the auto-pump mechanism, it effectively controls token price volatility for the benefit of both traders and holders.
+AutoPump works by smartly managing its funds through what we call Range-Bound Liquidity (RBL). This means we adjust how much money is in the market, whether prices are going up or down. It's like having an autopilot for the token's price, making sure it doesn’t swing too wildly.
 
-RBL deploys liquidity in both downward and upward trending markets. This strategy promotes market stability by inducing price contractions and expansions regardless of market conditions.
+<figure><img src="../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
 
-Liquidity is fundamental to the AUTO pump system, and all liquidity is community-owned. Alongside RBL's market operations, the protocol implements policies to balance liquidity and treasury reserves, maintaining adequate pricing depth.
+In technical speak, the AutoPump's action is defined by Δy = y - lim k/(100+ Δx) where Δx tends to be very large. Simply, it's a formula that helps us decide when to add or remove money from the market to keep the token's price steady.
 
-This ensure a continuous cycle. Collect, accumulate, and when the moment's right, power up the price by buying and burning tokens. No pause, all play.
+All the money that makes this possible comes from the community—every bit of it is owned by the people who hold the token. Our rules make sure there's always enough money in the market to have stable prices.
 
-* **Fee Collection:** With each transaction, AutoPump collects a small fee.
-* **AutoPump Fund:** This fee goes into the AutoPump fund, like a piggy bank that's only for buying and burning AutoPump tokens.
-* **Trigger Point:** Once the fund hits a set amount, the AutoPump triggers automatically.
-* **Buyback and Burn:** AutoPump uses the collected funds to buy back tokens from the market and then burns them, permanently reducing the supply.
+Here's how the cycle works:
+
+* **Fee Collection:** Each trade chips in a little to the AutoPump fund.
+* **AutoPump Fund:** This is like a savings account for the token's future, only used to make the token more valuable.
+* **Trigger Point:** When the fund hits the target number, AutoPump starts automatically.
+* **Buyback and Burn:** We use the saved money to buy back tokens and destroy them, which means fewer tokens around and higher value for the ones that remain.
+
+So, what we have with AutoPump is a self-driving system for maintaining the token's value. It's built to work on its own, adjusting to market changes to keep growing steadily. Think of AutoPump as your financial co-pilot in the crypto world, always working to get the best value for your tokens.

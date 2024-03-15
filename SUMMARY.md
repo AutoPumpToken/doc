@@ -4,9 +4,10 @@
 
 ## 🚀 AutoPump Mechanism
 
-* [⚙️ How AutoPump Works](autopump-mechanism/how-autopump-works.md)
 * [🛫 The Benefits of AutoPump](autopump-mechanism/the-benefits-of-autopump.md)
 * [💥 AutoPump's Unique Features](autopump-mechanism/autopumps-unique-features.md)
+* [⚙️ How AutoPump Works (Simplified)](autopump-mechanism/how-autopump-works.md)
+* [🔩 How AutoPump Works](autopump-mechanism/how-autopump-works-1.md)
 
 ***
 
