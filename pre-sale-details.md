@@ -1,49 +1,36 @@
 # 💲 Pre-Sale Details
 
-**Pre-sale Details**
+***
 
-**Start Dates:**
+#### 💲 Pre-Sale Details
 
-* **Pre-Sale:** **Monday, March 18, 2024**
-* **Launch:** 16th March 2024
+| **Key Information**           | **Details**                                      |
+| ----------------------------- | ------------------------------------------------ |
+| Pre-Sale Start Date           | Monday, 25th March 2024                          |
+| Launch Date                   | Immediately after the pre-sale goal is reached   |
+| **Fundraising Goal**          | 12 ETH (\~$40,000)                               |
+| **ETH to AUTO Conversion**    | 1 ETH = 33,333,300,000 AUTO                      |
+| **Minimum Contribution**      | 0.01 ETH                                         |
+| **Maximum Contribution**      | 1 ETH                                            |
+| **Tokenomics**                |                                                  |
+| Total Supply                  | 1 Trillion AUTO tokens                           |
+| Tokens for Sale (Pre-Sale)    | 40% (400 Billion AUTO)                           |
+| Tokens for Liquidity          | 40% (400 Billion AUTO)                           |
+| Airdrop Allocation            | 10% (100 Billion AUTO)                           |
+| Team Allocation               | 5% (50 Billion AUTO)                             |
+| Marketing Allocation          | 5% (50 Billion AUTO)                             |
+| **Lockup & Release Schedule** | 7 days lockup, then gradual release over 69 days |
+| **Use of Pre-Sale Funds**     | 100% allocated to liquidity                      |
 
-**Goals & Tokens:**
+#### Note:
 
-* **We Raise:** $25,000
-* **You Get:** 400 million AUTO for 1 AVAX ($50)
-* **Minimum Buy:** 0.1 AVAX
+* **All pre-sale funds will be added to liquidity on both DEXs.**
+* **The launch will occur once the pre-sale goal is met**, aiming for a smooth transition to market trading.
+* **Release Schedule**: The release schedule is specifically designed to protect our early investors, ensuring stability and long-term value for those who support us from the beginning.
+* **Presale and Listing Price**: The price for the presale and initial listing on DEXs will be the same. However, due to potential bot activity, it might be challenging for all investors to purchase at the exact listing price. Thus, the listing price should act as a support level.
+* **Market Cap at Listing**: We aim for a market cap of approximately **$100,000** at the time of listing, based on the total supply and the ETH raised during the presale. This valuation underscores our commitment to a stable and promising market entry for $AUTO.
 
-**Token Details:**
+#### Be Part of Our Success:
 
-* **Total AUTO:** 1 trillion
-  * **For Sale:** 20% (200 billion)
-  * **Free Airdrop:** 10% (100 billion)
-  * **Locked for Safety:** 70% (700 billion)
+Join us on **Monday, 25th March 2024**, for the pre-sale and be part of a future crypto success story. The launch is set to follow immediately after we meet our goal. With AutoPump, your investment is more than just a transaction—it's a step towards joining an emerging crypto narrative.
 
-**Funds Use:**
-
-* **All for Liquidity:** Every dollar boosts AUTO’s market presence. No money is spent on marketing.
-
-**Technologies:**
-
-* **AutoPump:** A built-in boost for your investment, ensuring growth.
-* **RBL (Range-Bound Liquidify):** Keeps the market stable in all conditions.
-
-**Why This Pre-Sale?** We’re confident in AutoPump's bright future. Our careful release plan protects you from early sell-offs, letting AutoPump grow strong. This approach shows we believe in our project's long-term success. We’re putting all funds into making the market stable, because we know this is the path to success.
-
-**Table Summary:**
-
-| **Detail**           | **Info**                                   |
-| -------------------- | ------------------------------------------ |
-| **Objective**        | Raise $25,000 with 200 billion AUTO tokens |
-| **Minimum Stake**    | 0.1 AVAX                                   |
-| **Token Supply**     | 1 trillion AUTO                            |
-| **For Sale**         | 20% (200 billion AUTO)                     |
-| **Airdrop**          | 10% (100 billion AUTO)                     |
-| **Liquidity Lock**   | 70% (700 billion AUTO)                     |
-| **Investor Journey** | 6 days lock, then release over 69 days     |
-| **Use of Funds**     | 100% for liquidity                         |
-
-**Be Part of Our Success:**
-
-Join us on Monday, March 18, 2024, for the pre-sale. The launch follows right after we meet our goal. With AutoPump, you’re not just investing, you’re joining a future crypto success story. Ready to start? 🚀
