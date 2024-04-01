@@ -6,12 +6,12 @@
 
 | **Key Information**           | **Details**                                      |
 | ----------------------------- | ------------------------------------------------ |
-| Pre-Sale Start Date           | Monday, 25th March 2024                          |
+| Pre-Sale Start Date           | Monday, March 1st, 2024                          |
 | Launch Date                   | Immediately after the pre-sale goal is reached   |
 | **Fundraising Goal**          | 12 ETH (\~$40,000)                               |
 | **ETH to AUTO Conversion**    | 1 ETH = 33,333,300,000 AUTO                      |
 | **Minimum Contribution**      | 0.01 ETH                                         |
-| **Maximum Contribution**      | 1 ETH                                            |
+| **Maximum Contribution**      | 0.5 ETH                                          |
 | **Tokenomics**                |                                                  |
 | Total Supply                  | 1 Trillion AUTO tokens                           |
 | Tokens for Sale (Pre-Sale)    | 40% (400 Billion AUTO)                           |
@@ -32,5 +32,5 @@
 
 #### Be Part of Our Success:
 
-Join us on **Monday, 25th March 2024**, for the pre-sale and be part of a future crypto success story. The launch is set to follow immediately after we meet our goal. With AutoPump, your investment is more than just a transaction—it's a step towards joining an emerging crypto narrative.
+Join us on **Monday, March 1st, 2024**, for the pre-sale and be part of a future crypto success story. The launch is set to follow immediately after we meet our goal. With AutoPump, your investment is more than just a transaction—it's a step towards joining an emerging crypto narrative.
 

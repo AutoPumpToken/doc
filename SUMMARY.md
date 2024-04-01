@@ -15,5 +15,4 @@
 * [💲 Pre-Sale Details](pre-sale-details.md)
 * [🤑 Tokenomics](tokenomics.md)
 * [🎯 Marketing](marketing.md)
-* [🗺️ Roadmap](roadmap.md)
 * [🤩 Team](team.md)
